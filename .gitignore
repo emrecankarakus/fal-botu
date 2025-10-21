@@ -1,0 +1,11 @@
+# Bu dosya, belirtilen dosyaların Git'e (örn: GitHub) yüklenmesini engeller.
+# Bu, .env dosyanızdaki anahtarların güvende kalmasını sağlar.
+
+# Ortam değişkenleri dosyası
+.env
+
+# Python cache dosyaları
+__pycache__/
+*.pyc
+
+firebase_key.json
